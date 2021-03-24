@@ -1,2 +1,2 @@
 # kattis-solutions
-Compilation of Kattis questions completed
+Archive of Kattis questions completed
